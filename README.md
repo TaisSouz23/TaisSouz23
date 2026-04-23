@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Tais!
 
-<!--
-**TaisSouz23/TaisSouz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Interessada em desenvolvimento e tecnologia  
+🚀 Buscando minha primeira oportunidade como desenvolvedora  
 
-Here are some ideas to get you started:
+## 📚 Atualmente estudando
+- Lógica de programação
+- Linguagem C
+- Programação Orientada a Objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- C (iniciante)
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/tais-souza-2b920b373
+
+
