@@ -11,6 +11,7 @@
 
 ## 🛠️ Tecnologias
 - C (iniciante)
+- Java (iniciante)
 
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/tais-souza-2b920b373
