@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="Banner.png" width="100%" alt="Banner de Tais Souza com baleia, borboletas e livros em pixel art"/>
-</div>
 <!-- IDENTIDADE VISUAL: LAVENDER OCEAN -->
 
 <div align="center">
